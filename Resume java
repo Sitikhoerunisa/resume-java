@@ -1,0 +1,28 @@
+Dilansir dari JournalDev, Java merupakan bahasa pemrograman yang berorientasi objek atau Object Oriented Programming Language. Java dirilis pada tahun 1995 oleh Sun Microsystems dan kemudian diakuisisi oleh Oracle pada tahun 2010.
+
+Java secara teknis mendukung paradigma Write Once-Run-Everywhere yang memungkinkan pengguna dapat mengembangkan dan mengkompilasi program berbasis Java dalam satu sistem dan menjalankan kode di semua jenis sistem operasi. Misalnya, pengguna dapat menulis kode dan mengkompilasi aplikasi Java di Windows dan kemudian menjalankannya di sistem Linux atau macOS.
+
+Bahasa pemrograman Java memungkinkan pengguna atau programmer untuk menulis instruksi komputasi menggunakan perintah berbasis bahasa Inggris, alih-alih menulis kode numerik. Ja…
+dengan pengembang untuk membuat laman situs jejaring animasi. Meski begitu, kini Java dikenal luas sebagai bahasa pemrograman yang digunakan di dalam maupun di luar ranah internet.
+Java memiliki tiga komponen utama yang meliputi sebagai berikut.
+
+• Java Development Kit (JDK), yang merupakan komponen inti dari Java Environment dan menyediakan semua alat, binari, dan executable untuk melakukan kompilasi, debugging, dan menjalankan program Java
+
+• Java Virtual Machine (JVM), yang merupakan jantung dari bahasa pemrograman Java. JVM menjadi tumpuan dalam mengubah kode bit ke kode khusus. JVM sendiri bergantung pada platform dan menyediakan fungsi inti Java seperti pengelolaan memori, pengumpulan sampah, keamanan, dan sebagainya
+
+• Java Runtime Environment (JRE), merupakan implementasi dari JVM yang menyediakan platform untuk menjalankan program Java. JRE terdiri dari JVM, binari Java, dan beberapa kelas untuk menjalankan program Java dengan baik.
+Selain komponen-komponen inti yang membangun environment Java, bahasa pemrograman ini juga memiliki beberapa fitur sebagai berikut.
+
+1. Kemudahan dan familier
+
+Bahasa pemrograman Java merupakan bahasa pemrograman yang mudah dipelajari dan kodenya mudah dibaca serta ditulis. Beda halnya dengan bahasa pemrograman lain seperti C/C++, Java tidak terlalu kompleks dan berorientasi pada objek. Hal ini meliputi proses abstraksi, enkapsulasi, inheritance, dan polymorphism.
+
+2. Kuat, aman, dan mendukung pemrograman fungsional
+
+Bahasa pemrograman Java mendukung pemrograman fungsional seperti tampilan antarmuka fungsional dan Lambda Expression yang menunjang fleksibilitasnya. Java juga didukung oleh pengumpulan sampah otomatis dan pemodelan manajemen memori sederhana de…
+Keunggulan Java
+- Java banyak digunakan dan mudah dipelajari
+- Dapat digunakan dalam berbagai sistem operasi komputer
+- Gratis dan open source
+- Memiliki dokumentasi yang bagus dengan dukungan komunitas 
+- Memiliki banyak framework
